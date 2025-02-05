@@ -1,3 +1,3 @@
 # IDEA310 O
-Repo Link:
+Repo Link: https://github.com/camilleharmon/IDEA310-O/tree/main
 Video Demo:
